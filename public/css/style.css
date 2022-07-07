@@ -1,0 +1,231 @@
+.containerHeader{
+    flex-direction:column;
+}
+.header{
+    background-color:white;
+    display: flex;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top:20px;
+    padding-bottom:20px;
+}
+.menu{
+    background-color:azure;
+    padding-right: 150px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left:150px;
+}
+.menu ul li{
+    display: inline-block;
+    margin-left: 15px;
+    list-style: none;
+}
+.week{
+    padding:5px;
+    background-color: blue;
+    color:white;
+    border:none;
+}
+.month{
+    padding-right:15px;
+    padding-left:15px;
+    padding-top:5px;
+    padding-bottom: 5px;
+    background-color: blue;
+    color:white;
+    border:none;
+}
+.months{
+    padding-right:25px;
+    padding-left:25px;
+    padding-top:5px;
+    padding-bottom: 5px;
+    background-color: blue;
+    color:white;
+    border:none;
+}
+.containerSchedule{
+    display:flex;
+    margin-left:350px;
+}
+.Fyear{
+    display:flex;
+    flex-direction: column;
+    display:inline-block;
+    font-size:10px;
+    
+}
+.Syear{
+    display:flex;
+    flex-direction: column;
+    display:inline-block;
+    font-size:10px;
+    margin-left: 30px;
+}
+.Fline{
+    width:400px;
+    color:black;
+}
+.Sline{
+    width:400px;
+    color:black;
+    size: 3px;
+}
+
+.FirstList ul{
+    overflow: hidden;
+}
+.FirstList ul li
+{
+    
+    display: inline-block;
+    list-style: none;
+    padding-right:45px;
+    padding-top:10px; 
+    font-size: bold;
+    
+}
+SecondList ul{
+    overflow: hidden;
+}
+.SecondList ul li{
+    
+    display: inline-block;
+    list-style: none;
+    padding-right:45px;
+    padding-top:10px; 
+    
+}
+.row{
+    margin-left:50px;
+    padding:10px;
+    background-color:#f1f1f1;
+   
+   
+}
+.input{
+    text-decoration: none;
+    
+}
+.data{
+    border:none;
+    background-color:#f1f1f1;
+}
+.input-blank{
+    padding:15px;
+    background-color:#ffffff;
+    margin-left:50px;
+}
+.line1{
+    border-left:2px solid #ffffff;
+    height:245px;
+    position:absolute;
+    left:32%;
+    margin-left:-4px;
+    top:208px;
+}
+.line2{
+    border-left:2px solid #ffffff;
+    height:245px;
+    position:absolute;
+    left:37%;
+    margin-left:-4px;
+    top:208px;
+}
+.line3{
+    border-left:2px solid #ffffff;
+    height:245px;
+    position:absolute;
+    left:42%;
+    margin-left:-4px;
+    top:208px;
+}
+.line4{
+    border-left:2px solid #ffffff;
+    height:245px;
+    position:absolute;
+    left:47%;
+    margin-left:-4px;
+    top:208px;
+}
+.line5{
+    border-left:2px solid #ffffff;
+    height:245px;
+    position:absolute;
+    left:52%;
+    margin-left:-4px;
+    top:208px;
+}
+.line6{
+    border-left:2px solid #ffffff;
+    height:245px;
+    position:absolute;
+    left:57%;
+    margin-left:-4px;
+    top:208px;
+}
+.line7{
+    border-left:2px solid #ffffff;
+    height:245px;
+    position:absolute;
+    left:66%;
+    margin-left:-4px;
+    top:208px;
+}
+.line8{
+    border-left:2px solid #ffffff;
+    height:245px;
+    position:absolute;
+    left:71%;
+    margin-left:-4px;
+    top:208px;
+}
+.line9{
+    border-left:2px solid #ffffff;
+    height:245px;
+    position:absolute;
+    left:76%;
+    margin-left:-4px;
+    top:208px;
+}
+.line10{
+    border-left:2px solid #ffffff;
+    height:245px;
+    position:absolute;
+    left:81%;
+    margin-left:-4px;
+    top:208px;
+}
+.line11{
+    border-left:2px solid #ffffff;
+    height:245px;
+    position:absolute;
+    left:86%;
+    margin-left:-4px;
+    top:208px;
+}
+.line12{
+    border-left:2px solid #ffffff;
+    height:245px;
+    position:absolute;
+    left:91%;
+    margin-left:-4px;
+    top:208px;
+}
+.Buttons{
+    margin:10px;
+}
+img{
+    margin:5px;
+}
+.PutButton{
+    width:300px;
+    height:500px;
+    border:2px solid black
+}
+
+
+
+
+
